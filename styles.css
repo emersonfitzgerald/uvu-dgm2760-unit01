@@ -1,0 +1,29 @@
+/* body h1,h2,h3,h4,h5,h6,ul, li {
+        margin: 0;
+}  */
+
+header {
+    max-width: 960px;
+    margin: 0 auto;
+    background-image: url("https://www.lostintransit.org/wp-content/uploads/2017/03/1170x450_port-dhiver-ts-2015-02-10T23-30-35_424Z.jpg");
+    height: 300px;
+}
+
+h1 {
+    color: #fff;
+}
+
+header h2 {
+    color: #fff;
+}
+
+main h2{
+    color: #000;
+}
+
+footer {
+    height: 1.5em;
+    background-color: #9acd32;
+    color: white;
+    text-align: center;
+  }
